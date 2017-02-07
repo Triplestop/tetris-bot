@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #-*- coding: utf-8 -*-
 
-# Genetic algorithm for TetrisBot. Fitness based on lines cleared.
+# Genetic algorithm for Tetris AI. Fitness based on lines cleared.
 
 
 from random import randrange as rand
